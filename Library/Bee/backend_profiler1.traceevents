@@ -1,0 +1,500 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1686689924909959, "dur":1184, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689924911148, "dur":171, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1686689924911337, "dur":94, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1686689924911431, "dur":349, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1686689924911810, "dur":439, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689924912249, "dur":0, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677280, "dur":202, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677482, "dur":63, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677546, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677550, "dur":35, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677585, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677589, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677600, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677602, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677616, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677617, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677623, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677624, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677631, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677632, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677639, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677640, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677645, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677647, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677652, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677654, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677659, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677661, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677666, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677668, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677673, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677675, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677680, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677682, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677689, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677691, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677701, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677703, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677711, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677734, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925677768, "dur":6482, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1686689924911872, "dur":381, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686689924912253, "dur":3492, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686689924915750, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1686689924915826, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686689924921133, "dur":752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1686689924921913, "dur":49260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme.exe" }}
+,{ "pid":12345, "tid":1, "ts":1686689924971176, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686689924971182, "dur":1648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme.exe" }}
+,{ "pid":12345, "tid":1, "ts":1686689924972859, "dur":49224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686689925022088, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686689925022097, "dur":1612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686689925023740, "dur":15780, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686689925039525, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686689925039535, "dur":16902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686689925056472, "dur":63254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686689925119731, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686689925119739, "dur":22462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686689925142242, "dur":72174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686689925214422, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686689925214432, "dur":26283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686689925240747, "dur":88634, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686689925329388, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686689925329399, "dur":1260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686689925330691, "dur":158040, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686689925488738, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1686689925488748, "dur":1622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1686689925490397, "dur":186874, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686689924911956, "dur":323, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686689924912279, "dur":3464, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686689924915762, "dur":257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1686689924916022, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686689924937448, "dur":975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1686689924938459, "dur":46425, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686689924984888, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686689924984895, "dur":2463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686689924987390, "dur":38356, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686689925025750, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686689925025758, "dur":2928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686689925028720, "dur":76629, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686689925105353, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686689925105361, "dur":4001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686689925109394, "dur":69414, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686689925178814, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686689925178825, "dur":12604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686689925191468, "dur":243149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686689925434622, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1686689925434629, "dur":1921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1686689925436576, "dur":240704, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686689924911901, "dur":359, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686689924912260, "dur":3486, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686689924915753, "dur":288, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1686689924916044, "dur":19, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686689924950494, "dur":1619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1686689924956250, "dur":16896, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686689924973150, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686689924973159, "dur":2238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686689924975430, "dur":49509, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686689925024943, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686689925024950, "dur":4309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686689925029303, "dur":80015, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686689925109322, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686689925109329, "dur":1177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686689925110535, "dur":42533, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686689925153075, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686689925153086, "dur":4485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686689925157617, "dur":166072, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686689925323696, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686689925323707, "dur":6664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686689925330401, "dur":68104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686689925398512, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686689925398524, "dur":1550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1686689925400106, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1686689925400140, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686689925400272, "dur":1001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1686689925401301, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1686689925401332, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686689925401337, "dur":9408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1686689925410774, "dur":7805, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1686689925418583, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686689925418589, "dur":1422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1686689925420045, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1686689925420163, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1686689925420168, "dur":841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1686689925421037, "dur":256241, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686689924911948, "dur":324, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686689924912272, "dur":3484, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686689924915757, "dur":260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1686689924916020, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686689924937025, "dur":816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1686689924937872, "dur":17919, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686689924955797, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686689924955808, "dur":2360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686689924958203, "dur":120717, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686689925078926, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686689925078936, "dur":5466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686689925084428, "dur":33364, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686689925117797, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686689925117805, "dur":11155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686689925129026, "dur":51822, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686689925180852, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686689925180859, "dur":8597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686689925189812, "dur":177204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686689925367022, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686689925367032, "dur":1390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686689925368451, "dur":306565, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686689925675021, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1686689925675032, "dur":2165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1686689925677219, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":4, "ts":1686689925677221, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689924911979, "dur":309, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689924912289, "dur":3462, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689924915753, "dur":290, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1686689924916047, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689924948822, "dur":1090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1686689924949959, "dur":16683, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686689924966646, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689924966654, "dur":1384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686689924968070, "dur":33043, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686689925001117, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689925001126, "dur":4309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686689925005468, "dur":18966, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686689925024438, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689925024446, "dur":1798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686689925026303, "dur":57094, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686689925083402, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689925083426, "dur":3259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686689925086718, "dur":30107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686689925116832, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689925116844, "dur":1897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686689925118769, "dur":61850, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686689925180625, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689925180653, "dur":40293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686689925220980, "dur":125897, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686689925346884, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689925346893, "dur":1340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686689925348263, "dur":51782, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686689925400049, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689925400057, "dur":1182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1686689925401266, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":5, "ts":1686689925401298, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689925401304, "dur":3935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":5, "ts":1686689925405268, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1686689925405299, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689925405306, "dur":4234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1686689925409575, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1686689925409729, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689925409737, "dur":2145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1686689925411908, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1686689925411938, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689925411944, "dur":2303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1686689925414280, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1686689925414315, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689925414323, "dur":1447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1686689925415801, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/level0.resS" }}
+,{ "pid":12345, "tid":5, "ts":1686689925415832, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689925415837, "dur":1094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/level0.resS" }}
+,{ "pid":12345, "tid":5, "ts":1686689925416968, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1686689925417002, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689925417008, "dur":1378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1686689925418416, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1686689925418449, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689925418454, "dur":1338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1686689925419818, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1686689925419846, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1686689925419851, "dur":939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1686689925420818, "dur":256455, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686689924912006, "dur":292, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686689924912298, "dur":3463, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686689924915761, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1686689924915870, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686689924931944, "dur":771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1686689924932750, "dur":38861, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686689924971615, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686689924971622, "dur":2765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686689924974425, "dur":147503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686689925121934, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686689925121944, "dur":34813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686689925156791, "dur":156227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686689925313022, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686689925313030, "dur":1468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686689925314528, "dur":255714, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686689925570249, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1686689925570259, "dur":1452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1686689925571733, "dur":105557, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686689924912040, "dur":266, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686689924912307, "dur":3448, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686689924915756, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1686689924915823, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686689924916509, "dur":1343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1686689924917872, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1686689924917905, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686689924917909, "dur":723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1686689924918654, "dur":370, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686689924919026, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686689924919050, "dur":811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686689924919879, "dur":18004, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686689924937886, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686689924937891, "dur":14878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686689924952804, "dur":68690, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686689925021499, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686689925021508, "dur":1507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686689925023044, "dur":15866, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686689925038917, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686689925038928, "dur":4399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686689925043376, "dur":36863, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686689925080244, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686689925080254, "dur":3107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686689925083397, "dur":98943, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686689925182370, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686689925182378, "dur":8233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686689925190643, "dur":140004, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686689925330651, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686689925330660, "dur":1097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686689925331787, "dur":160531, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686689925492324, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1686689925492334, "dur":1133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1686689925493488, "dur":183807, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686689924912067, "dur":252, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686689924912319, "dur":3450, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686689924915770, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1686689924915827, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686689924925873, "dur":1208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1686689924927125, "dur":92215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686689925019347, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686689925019357, "dur":1338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686689925020732, "dur":47557, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686689925068296, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686689925068307, "dur":1377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686689925069730, "dur":16896, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686689925086632, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686689925086643, "dur":1394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686689925088070, "dur":36478, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686689925124552, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686689925124561, "dur":32321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686689925156911, "dur":168013, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686689925324929, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686689925324938, "dur":1022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686689925325993, "dur":191621, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686689925517621, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1686689925517632, "dur":2035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1686689925519688, "dur":157587, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1686689924912096, "dur":230, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1686689924912327, "dur":3443, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1686689924915774, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1686689924916037, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1686689924937762, "dur":1029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1686689924938850, "dur":25553, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1686689924964408, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1686689924964416, "dur":4453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1686689924968903, "dur":54662, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1686689925023569, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1686689925023601, "dur":1730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1686689925025366, "dur":15457, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1686689925040827, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1686689925040835, "dur":15481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1686689925056352, "dur":35632, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1686689925091991, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1686689925092005, "dur":1449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1686689925093487, "dur":205669, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1686689925299162, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1686689925299180, "dur":2076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1686689925301289, "dur":132855, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":9, "ts":1686689925434151, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1686689925434161, "dur":1296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":9, "ts":1686689925435487, "dur":241805, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1686689924912120, "dur":212, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1686689924912332, "dur":3442, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1686689924915775, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1686689924915852, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1686689924931614, "dur":783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1686689924932434, "dur":41218, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1686689924973656, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1686689924973664, "dur":3873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1686689924977567, "dur":16977, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1686689924994577, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1686689924994586, "dur":3161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1686689924997783, "dur":34756, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1686689925032546, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1686689925032557, "dur":1744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1686689925034329, "dur":40155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1686689925074492, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1686689925074502, "dur":21564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1686689925096103, "dur":28166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1686689925124276, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1686689925124286, "dur":5249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1686689925129561, "dur":28745, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1686689925158311, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1686689925158322, "dur":1082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1686689925159439, "dur":309488, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":10, "ts":1686689925468935, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1686689925468946, "dur":1135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":10, "ts":1686689925470109, "dur":207175, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1686689924912153, "dur":186, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1686689924912339, "dur":3427, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1686689924915769, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1686689924915824, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1686689924920814, "dur":887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1686689924921738, "dur":765, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":11, "ts":1686689924922506, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1686689924922510, "dur":1124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":11, "ts":1686689924923655, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":11, "ts":1686689924923680, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1686689924924207, "dur":3002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":11, "ts":1686689924927252, "dur":13387, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1686689924940645, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1686689924941084, "dur":1739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1686689924942861, "dur":20741, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1686689924963609, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1686689924963620, "dur":930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1686689924964578, "dur":18938, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1686689924983522, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1686689924983533, "dur":1172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1686689924984735, "dur":59912, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1686689925044652, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1686689925044661, "dur":13319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1686689925058024, "dur":16646, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1686689925074674, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1686689925074682, "dur":1212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1686689925075931, "dur":20563, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1686689925096499, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1686689925096510, "dur":7036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1686689925103582, "dur":15217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1686689925118804, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1686689925118811, "dur":7543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1686689925126387, "dur":210551, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1686689925337162, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1686689925337175, "dur":3080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1686689925340286, "dur":153665, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":11, "ts":1686689925493955, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1686689925493961, "dur":1129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":11, "ts":1686689925495125, "dur":182158, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1686689924912172, "dur":174, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1686689924912346, "dur":3431, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1686689924915777, "dur":274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1686689924916053, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1686689924950049, "dur":1962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1686689924952042, "dur":16076, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1686689924968122, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1686689924968130, "dur":2389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1686689924970549, "dur":27877, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1686689924998431, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1686689924998439, "dur":1067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1686689924999535, "dur":13501, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1686689925013042, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1686689925013052, "dur":1073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1686689925014155, "dur":24811, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1686689925039009, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1686689925039017, "dur":9528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1686689925048589, "dur":21478, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1686689925070072, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1686689925070084, "dur":956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1686689925071076, "dur":17560, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1686689925088667, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1686689925088678, "dur":1186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1686689925089897, "dur":15443, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1686689925105347, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1686689925105357, "dur":3784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1686689925109178, "dur":18268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1686689925127451, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1686689925127462, "dur":14780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1686689925142280, "dur":170314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":12, "ts":1686689925312599, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1686689925312608, "dur":2225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":12, "ts":1686689925314862, "dur":214124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":12, "ts":1686689925528992, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1686689925529001, "dur":1844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":12, "ts":1686689925530866, "dur":146415, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1686689924912193, "dur":160, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1686689924912353, "dur":3409, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1686689924915766, "dur":278, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1686689924916047, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1686689924938132, "dur":739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1686689924938899, "dur":169827, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1686689925108733, "dur":561, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1686689925109305, "dur":1831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1686689925111175, "dur":32746, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1686689925143928, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1686689925143940, "dur":23986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1686689925167957, "dur":143290, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":13, "ts":1686689925311254, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1686689925311264, "dur":1363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":13, "ts":1686689925312663, "dur":56134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":13, "ts":1686689925368801, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1686689925368808, "dur":1741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":13, "ts":1686689925370575, "dur":284413, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":13, "ts":1686689925654993, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1686689925655001, "dur":815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":13, "ts":1686689925655833, "dur":21439, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1686689924912218, "dur":140, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1686689924912358, "dur":3390, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1686689924915750, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1686689924915823, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1686689924916275, "dur":1557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1686689924917853, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1686689924917878, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1686689924917899, "dur":730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1686689924918650, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":14, "ts":1686689924918678, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1686689924918683, "dur":837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":14, "ts":1686689924919538, "dur":4549, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":14, "ts":1686689924924089, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1686689924924094, "dur":4342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":14, "ts":1686689924928458, "dur":39026, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1686689924967489, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1686689924967497, "dur":2981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1686689924970512, "dur":226242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":14, "ts":1686689925196762, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1686689925196772, "dur":1709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":14, "ts":1686689925198509, "dur":231733, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":14, "ts":1686689925430249, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1686689925430259, "dur":1541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":14, "ts":1686689925431831, "dur":245455, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1686689924912246, "dur":4, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1686689924912250, "dur":3492, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1686689924915750, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":15, "ts":1686689924915753, "dur":367, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1686689924916122, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/app.info" }}
+,{ "pid":12345, "tid":15, "ts":1686689924916126, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1686689924950854, "dur":1339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/app.info" }}
+,{ "pid":12345, "tid":15, "ts":1686689924952195, "dur":14198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1686689924966398, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1686689924966406, "dur":2719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1686689924969160, "dur":200802, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1686689925169968, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1686689925169979, "dur":17707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1686689925187952, "dur":391358, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":15, "ts":1686689925579315, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1686689925579322, "dur":2262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":15, "ts":1686689925581620, "dur":95657, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1686689924912293, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1686689924912293, "dur":3461, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1686689924915755, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1686689924915837, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1686689924926267, "dur":1169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1686689924927473, "dur":18134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1686689924945616, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1686689924945709, "dur":1187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1686689924946931, "dur":23992, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1686689924970952, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1686689924970961, "dur":3259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1686689924974257, "dur":50466, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1686689925024727, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1686689925024735, "dur":4171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1686689925028931, "dur":17393, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1686689925046329, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1686689925046337, "dur":10705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1686689925057072, "dur":160233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1686689925217311, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1686689925217329, "dur":22875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1686689925240244, "dur":151011, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":16, "ts":1686689925391270, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1686689925391289, "dur":1705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":16, "ts":1686689925393025, "dur":155698, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":16, "ts":1686689925548731, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1686689925548775, "dur":1275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/selin/Desktop/ZigZagGameDeneme_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":16, "ts":1686689925550087, "dur":127212, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1686689925685566, "dur":1618, "ph":"X", "name": "ProfilerWriteOutput" }
+,
